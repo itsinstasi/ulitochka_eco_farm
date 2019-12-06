@@ -1,5 +1,5 @@
 ﻿User-agent: *
-Sitemap: https://ulitochka-eco-farm.itsinsta.site/sitemap.xml
+Sitemap: https://mucin.farm/sitemap.xml
 Disallow: /main.html
 Disallow: /main
 Disallow: /stories.html
